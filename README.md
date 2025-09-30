@@ -1,2 +1,1 @@
 # Primer-proyecto-programacion
-gg
